@@ -45,7 +45,7 @@ Reporter.log("Chrome launched", true);
 //		ScreenshotLib slib= new ScreenshotLib();
 //		slib.takeScreenshot(driver, filepath);
 //		Reporter.log("Screenshot has been take", true);
-		
+//		
 	}
 
 	@Override
